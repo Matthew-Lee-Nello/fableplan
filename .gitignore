@@ -1,0 +1,5 @@
+# nothing to ignore yet — pure Node, no deps, no build output.
+# placeholder so the repo stays clean if you add tooling later.
+node_modules/
+*.log
+.DS_Store
