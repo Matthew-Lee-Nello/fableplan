@@ -93,13 +93,3 @@ It's a small, readable change to your own settings file. Read `install.mjs` (it'
 ## Why plan and build on different models
 
 Planning and building are different jobs. Planning rewards slow, wide reasoning: holding the whole problem, weighing trade-offs, catching what you'd miss. Building rewards fast, precise code. Fable 5 is the strongest reasoning model; Opus 4.8 is the strongest coding model. fableplan lets you use each one for the part it's best at, without thinking about it.
-
----
-
-## Built by NELLO
-
-NELLO teaches business owners and operators how to put AI to work in their day-to-day. If a tool like this is useful to you, the free Company Brain walkthrough shows how the same thinking applies to running a business, not just writing code.
-
-→ [nello.gg](https://nello.gg)
-
-MIT licensed. Use it, fork it, share it.
